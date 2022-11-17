@@ -1,0 +1,10 @@
+{
+  "name": "dfz-announced-percent-calc",
+  "version": "1.0.0",
+  "description": "Calculates the percentage of IPv4 & IPv6 space currently announced to the Default Free Zone.",
+  "main": "calc.js",
+  "repository": "https://github.com/bgpstat/dfz-announced-percent-calc",
+  "author": "Arctictel Ltd & Unlimited is Limited Joint-Venture",
+  "license": "MIT",
+  "private": false
+}
